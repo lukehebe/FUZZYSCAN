@@ -13,7 +13,7 @@ FUZZY scan is an API endpoint scanner for CTF's and BugBounties. This simple too
 
 The instructions are simple:
 
-usage: fuzzy.py [-h] -t TARGET [--https] [--http]
+usage: cat <whatever_wordlist> | python3 fuzzy.py -t <ip> --http(s)
 
 FUZZYSCAN - Simple API Fuzzer
 
