@@ -3,7 +3,7 @@ FUZZY scan is an API endpoint scanner for CTF's and BugBounties. This simple too
 
 
 
-![FUZZYSCAN](./FUZZYSCAN.gif)
+![FUZZYSCAN](./REALDEMO.gif)
 
 
 
