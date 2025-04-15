@@ -26,4 +26,6 @@ options:
 
 You may use whatever wordlist you like the one I have included contains various API names used for fuzzing web application APIs most of which were discovered out in the wild.
 
+This was tested on the machine "Backend" from HTB
+
 This is my first python project worth pushing to GitHub, enjoy!
