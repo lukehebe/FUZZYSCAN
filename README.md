@@ -17,12 +17,6 @@ usage: cat <whatever_wordlist> | python3 fuzzy.py -t <ip> --http(s)
 
 FUZZYSCAN - Simple API Fuzzer
 
-options:
-  -h, --help            show this help message and exit
-  -t TARGET, --target TARGET
-                        Target domain or IP required (example.com or 10.10.0.1)
-  --https               Use HTTPS instead of HTTP
-  --http                Use HTTP instead of HTTPS
 
 You may use whatever wordlist you like the one I have included contains various API names used for fuzzing web application APIs most of which were discovered out in the wild.
 
