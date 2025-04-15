@@ -11,15 +11,6 @@ FUZZY scan is an API endpoint scanner for CTF's and BugBounties. This simple too
 
 
 
-
-
-
-
-
-
-
-
-
 The instructions are simple:
 
 usage: fuzzy.py [-h] -t TARGET [--https] [--http]
@@ -35,4 +26,4 @@ options:
 
 You may use whatever wordlist you like the one I have included contains various API names used for fuzzing web application APIs most of which were discovered out in the wild.
 
-This is my first python project worth pushing to GitHUb, enjoy!
+This is my first python project worth pushing to GitHub, enjoy!
