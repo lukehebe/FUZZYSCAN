@@ -22,4 +22,3 @@ You may use whatever wordlist you like the one I have included contains various 
 
 This was tested on the machine "Backend" from HTB
 
-This is my first python project worth pushing to GitHub, enjoy!
