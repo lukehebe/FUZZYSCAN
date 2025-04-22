@@ -9,16 +9,10 @@ FUZZYSCAN is an API endpoint fuzzer for CTF's and BugBounties. This simple tool 
 
 
 
+FuzzyScan - Simple API Fuzzer
+Usage:
+cat <wordlist> | python3 fuzzy.py -t "<IP or domain name>" [--http | --https]
 
-
-The instructions are simple:
-
-usage: cat <whatever_wordlist> | python3 fuzzy.py -t "ip or domain name" --http(s)
-
-FUZZYSCAN - Simple API Fuzzer
-
-
-You may use whatever wordlist you like the one I have included contains various API names used for fuzzing web application APIs most of which were discovered out in the wild.
-
-This was tested on the machine "Backend" from HTB
-
+FuzzyScan is a lightweight tool for fuzzing web application APIs. You can use any wordlist of your choice. The included wordlist contains a variety of API endpoint names, many of which were discovered in real-world applications.
+Note:
+This tool was tested on the “Backend” machine from Hack The Box (HTB).
